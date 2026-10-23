@@ -1,0 +1,84 @@
+[
+  {
+    "type": "Fill in the Blank",
+    "sport": "Cricket",
+    "difficulty": "Medium",
+    "sentence": "The first Laws of Cricket were written in 1744 and subsequently amended in ____, introducing innovations such as lbw and a 3rd stump.",
+    "options": [
+      "1764",
+      "1774",
+      "1784",
+      "1794"
+    ],
+    "correct_answer": "1774",
+    "explanation": "The first Laws of Cricket were codified in 1744 and later revised in 1774 to introduce rules such as lbw, a 3rd (middle) stump, and a maximum bat width.",
+    "source_title": "History of Cricket | About ICC Cricket | ICC",
+    "source_url": "https://www.icc-cricket.com/about/cricket/history-of-cricket/early-cricket"
+  },
+  {
+    "type": "MCQ",
+    "sport": "Cricket",
+    "difficulty": "Medium",
+    "question": "According to ESPNcricinfo career records, in which season did MS Dhoni make his One Day International (ODI) debut for India?",
+    "options": [
+      "2003/04",
+      "2004/05",
+      "2005/06",
+      "2006/07"
+    ],
+    "correct_answer": "2004/05",
+    "explanation": "MS Dhoni's ODI career spanned from 2004/05 to 2019, with his debut occurring in the 2004/05 season.",
+    "source_title": "All-round records | Combined Test, ODI and T20I records | Cricinfo Statsguru",
+    "source_url": "https://stats.espncricinfo.com/ci/engine/player/28081.html?class=11%3Bfilter%3Dadvanced%3Bfilter_box%3Dhost%3Bfilter_box%3Dopposition%3Bfilter_box%3Dseries%3Btype%3Dallround"
+  },
+  {
+    "type": "True/False",
+    "sport": "Cricket",
+    "difficulty": "Medium",
+    "statement": "According to ESPNcricinfo's historical records, leg-byes were first recorded as such in cricket in 1848.",
+    "correct_answer": true,
+    "explanation": "In ESPNcricinfo's historical timeline of cricket events, leg-byes were first recorded as such in the year 1848.",
+    "source_title": "Dates in cricket history | Cricinfo",
+    "source_url": "https://www.espncricinfo.com/story/dates-in-cricket-history-153476"
+  },
+  {
+    "type": "True/False",
+    "sport": "Cricket",
+    "difficulty": "Medium",
+    "statement": "According to Cricinfo's historical timeline, bowling analysis was first kept in the M.C.C. score-book in 1840.",
+    "correct_answer": true,
+    "explanation": "According to ESPNcricinfo's historical records, bowling analysis was officially first kept in the M.C.C. score-book in 1840.",
+    "source_title": "Dates in cricket history | Cricinfo",
+    "source_url": "https://www.espncricinfo.com/story/dates-in-cricket-history-153476"
+  },
+  {
+    "type": "True/False",
+    "sport": "Cricket",
+    "difficulty": "Easy",
+    "statement": "According to ESPNcricinfo's historical records, the first recorded instance of a hat being given to a bowler for taking three wickets with consecutive balls occurred in 1858.",
+    "correct_answer": true,
+    "explanation": "In 1858, cricket recorded its first instance of a bowler receiving a hat for taking three wickets with three consecutive balls.",
+    "source_title": "Dates in cricket history",
+    "source_url": "https://www.espncricinfo.com/story/dates-in-cricket-history-153476"
+  },
+  {
+    "type": "Poll",
+    "sport": "Cricket",
+    "prompt": "Which shot is more satisfying to watch?",
+    "options": [
+      "A flawless Cover Drive",
+      "A power-packed Pull Shot"
+    ],
+    "opinion_based": true
+  },
+  {
+    "type": "True/False",
+    "sport": "Cricket",
+    "difficulty": "Easy",
+    "statement": "According to ESPNcricinfo's historical timeline, Winchester won the first Harrow v. Winchester cricket match played in 1825.",
+    "correct_answer": true,
+    "explanation": "According to ESPNcricinfo's historical records, the first Harrow v. Winchester match took place in 1825 and was won by Winchester.",
+    "source_title": "Dates in cricket history",
+    "source_url": "https://www.espncricinfo.com/story/dates-in-cricket-history-153476"
+  }
+]
